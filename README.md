@@ -22,7 +22,7 @@
 
 ## Disclaimer
 
-This is an **unofficial** reimplementation of the paper *Textured Gaussians for Enhanced 3D Scene Appearance Modeling* that highlights the key components of the paper, including:
+This is a reimplementation of the paper *Textured Gaussians for Enhanced 3D Scene Appearance Modeling* that highlights the key components of the paper, including:
 - Ray-Gaussian intersection
 - Texture Gaussians UV mapping
 - Generaralized Gaussian apperance model with spatially-varying colors and alpha values
